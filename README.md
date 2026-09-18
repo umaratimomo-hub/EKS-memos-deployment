@@ -1,1 +1,1 @@
-# EKS-production-grade-platform
+# EKS-memos-deployment
